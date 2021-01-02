@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1549565327 source:c:\users\abdallah\desktop\desktop\database project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1609608044 source:d:\education\college\3rd mechatronics 2017\programming\database project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"student.h"
+
+1609599943 source:d:\education\college\3rd mechatronics 2017\programming\database project\staff.cpp
+	"staff.h"
+
+1609599943 d:\education\college\3rd mechatronics 2017\programming\database project\include\staff.h
+
+1609608351 source:d:\education\college\3rd mechatronics 2017\programming\database project\staffmembers.cpp
+	"staffmembers.h"
+
+1609600129 d:\education\college\3rd mechatronics 2017\programming\database project\include\staffmembers.h
+
+1609599534 source:d:\education\college\3rd mechatronics 2017\programming\database project\students.cpp
+	"students.h"
+
+1609599534 d:\education\college\3rd mechatronics 2017\programming\database project\include\students.h
+
+1609608314 d:\education\college\3rd mechatronics 2017\programming\database project\include\student.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1609608325 source:d:\education\college\3rd mechatronics 2017\programming\database project\student.cpp
+	"student.h"
+
